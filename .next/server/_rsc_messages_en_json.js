@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "_rsc_messages_en_json";
+exports.ids = ["_rsc_messages_en_json"];
+exports.modules = {
+
+/***/ "(rsc)/./messages/en.json":
+/*!**************************!*\
+  !*** ./messages/en.json ***!
+  \**************************/
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"nav":{"products":"Products","features":"Features","pricing":"Pricing","about":"About","getStarted":"Get Started"},"hero":{"badge":"Making Business Simple","title":"Simple solutions for difficult","titleGradient":"business tasks","description":"PARZ offers simple and efficient business management solutions for various industries - from restaurants to hotels.","startTrial":"Start Free Trial","viewProducts":"View Products","noCard":"No credit card required • 14-day free trial"},"products":{"title":"Our Products","subtitle":"Choose the right solution for your business","invoicing":{"name":"ParzInvoicing","description":"For accountants and companies - centralized customer invoice management.","button":"Learn More"},"pos":{"name":"ParzPOS","description":"Modern POS system for fast and simple sales processes.","button":"Learn More"},"rest":{"name":"ParzRest","description":"Complete restaurant management solution - from orders to kitchen.","button":"Learn More"},"shop":{"name":"ParzShop","description":"Shop management platform - from inventory to sales.","button":"Learn More"},"hotel":{"name":"ParzHotel","description":"Hotel management system - from bookings to invoices.","button":"Learn More"}},"features":{"title":"Why Choose PARZ","subtitle":"All our solutions share common advantages","simple":{"title":"Simple Interface","description":"Intuitive and easy-to-use interface without complex training."},"multibusiness":{"title":"Multi-Location Support","description":"Manage multiple businesses or locations from one system."},"secure":{"title":"Secure & Reliable","description":"Your data is protected and stored on secure servers."},"mobile":{"title":"Mobile Access","description":"Work from anywhere with smartphone or tablet."},"reports":{"title":"Real-Time Reports","description":"Get detailed reports and analytics in real-time."},"collaboration":{"title":"Team Collaboration","description":"Collaborate with your team with different access rights."}},"pricing":{"title":"Flexible Pricing Plans","subtitle":"Choose the plan for your business","note":"Prices vary by selected product","starter":{"name":"Starter","description":"For small businesses","price":"$29+","period":"/month","features":{"users":"Up to 3 users","locations":"1 location","support":"Email support","reports":"Basic reports","mobile":"Mobile access"},"button":"Get Started"},"pro":{"name":"Pro","description":"For growing businesses","price":"$99+","period":"/month","popular":"Most Popular","features":{"users":"Unlimited users","locations":"Up to 5 locations","support":"Priority support","reports":"Advanced reports","integrations":"Integrations","customization":"Customization"},"button":"Start Free Trial"},"enterprise":{"name":"Enterprise","description":"For large organizations","price":"Custom","features":{"users":"Unlimited users","locations":"Unlimited locations","support":"Dedicated support","deployment":"On-premise deployment","sla":"Custom SLA","training":"Staff training"},"button":"Contact Sales"}},"cta":{"title":"Ready to simplify your business?","description":"Join hundreds of businesses already using PARZ solutions in their daily operations.","startTrial":"Start Free Trial","contactSales":"Contact Sales","footer":"14-day free trial • No credit card required • Cancel anytime"},"footer":{"description":"PARZ - Simple business solutions for various industries.","products":"Products","company":"Company","resources":"Resources","links":{"invoicing":"ParzInvoicing","pos":"ParzPOS","rest":"ParzRest","shop":"ParzShop","hotel":"ParzHotel","features":"Features","pricing":"Pricing","security":"Security","api":"API","about":"About","blog":"Blog","careers":"Careers","contact":"Contact","documentation":"Documentation","helpCenter":"Help Center","community":"Community","status":"Status"},"copyright":"© 2024 PARZ. All rights reserved.","privacy":"Privacy Policy","terms":"Terms of Service","cookies":"Cookie Policy"}}');
+
+/***/ })
+
+};
+;
